@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+***delete Search_GITHUB_user folder after downloading my project***
+
 ### Prerequisites 
 
 &#x1F537; learn `react` from <a href="https://reactjs.org/">here &#9883;</a>
