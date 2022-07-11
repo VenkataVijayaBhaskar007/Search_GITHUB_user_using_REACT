@@ -1,10 +1,54 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Prerequisites 
 
-## Available Scripts
+&#x1F537; learn `react` from <a href="https://reactjs.org/">here &#9883;</a>
 
-In the project directory, you can run:
+
+&#x1F537;This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+
+### Steps to install
+
+1.Install node in your pc
+
+2.After downloading my project open it in your code editor
+
+3.go to the file where you wanna start npm(cd "yourfolder name") (or) start it directly in the folder which you downloaded from my repository<br/>
+
+
+4.Run command `npm install` (this command will install all the node modules you needed for project)
+
+5.After that run command `npm start` (This command will redirect your project to browser)
+
+6.Finally the output will be came in your browser with `localhost:3000`
+
+## Go through below commands if you want to learn more about react
+
+
+### `npx create-react-app <react-app-name>`
+
+after running this command a folder will be created with given name, here it's `react-app-name`
+
+packages will be installed automatically with this command 
+
+you can see this type of structure after installation of all the packages 
+<pre>
+my-react-app
+├── README.md
+├── node_modules
+├── package.json
+├── .gitignore
+├── public
+└── src</pre>
+
+### `cd my-app`
+
+
+this command will help you to locate folder where you want to install ***npm***
+
+followed by command `npm install`
 
 ### `npm start`
 
