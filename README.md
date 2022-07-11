@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-***delete Search_GITHUB_user folder after downloading my project***
+***click<a href ="https://venkatavijayabhaskar007.github.io/Search_GITHUB_user_/"> here</a> to live demo***
 
 ### Prerequisites 
 
