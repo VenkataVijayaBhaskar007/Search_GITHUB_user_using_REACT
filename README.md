@@ -4,8 +4,8 @@
 
 ### Prerequisites 
 
-&#x1F537; learn `react` from <a href="https://reactjs.org/">here </a><img align="center" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="30" height="30">
-
+&#x1F537; learn `react` from <a href="https://reactjs.org/">here <img align="center" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="30" height="30">
+ </a>
 
 &#x1F537;This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -36,14 +36,10 @@ after running this command a folder will be created with given name, here it's `
 packages will be installed automatically with this command 
 
 you can see this type of structure after installation of all the packages 
-<pre>
-my-react-app
-├── README.md
-├── node_modules
-├── package.json
-├── .gitignore
-├── public
-└── src</pre>
+
+
+![Screenshot (10)](https://user-images.githubusercontent.com/95356073/178552584-225f8624-9770-417e-b730-754e140bf343.png)
+
 
 ### `cd my-app`
 
