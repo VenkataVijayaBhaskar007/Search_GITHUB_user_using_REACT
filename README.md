@@ -4,7 +4,7 @@
 
 ### Prerequisites 
 
-&#x1F537; learn `react` from <a href="https://reactjs.org/">here &#9883;</a>
+&#x1F537; learn `react` from <a href="https://reactjs.org/">here </a><img align="center" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="30" height="30">
 
 
 &#x1F537;This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
