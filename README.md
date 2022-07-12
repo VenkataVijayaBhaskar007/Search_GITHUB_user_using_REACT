@@ -35,7 +35,8 @@ after running this command a folder will be created with given name, here it's `
 
 packages will be installed automatically with this command 
 
-you can see this type of structure after installation of all the packages 
+you can see this type of structure after installation of all the packages, learn more about `react folder structure` <a href="https://medium.com/@abesingh1/create-react-app-files-folders-structure-explained-df24770f8562">here <img align="center" src="https://i.pinimg.com/564x/bf/5f/a3/bf5fa3f7572f0ff59777b38b81d8838f.jpg" width="30" height="30">
+ </a>
 
 
 ![Screenshot (10)](https://user-images.githubusercontent.com/95356073/178552584-225f8624-9770-417e-b730-754e140bf343.png)
