@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Create React App.
 
 ***click<a href ="https://venkatavijayabhaskar007.github.io/Search_GITHUB_user_/"> here</a> to live demo***
 
