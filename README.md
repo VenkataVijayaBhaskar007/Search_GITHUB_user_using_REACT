@@ -1,6 +1,6 @@
 # Getting Started with Create React App.
 
-***click<a href ="https://venkatavijayabhaskar007.github.io/Search_GITHUB_user_/"> here</a> to live demo***
+***click<a href ="https://search-github-user-using-react.vercel.app/"> here</a> to live demo***
 
 ### Prerequisites 
 
